@@ -12,4 +12,4 @@
 # Walkthrough
 * Download the file using [wget](https://www.ionos.com/digitalguide/server/configuration/linux-wget-command/) in command line or in terminal
 	* wget https://mercury.picoctf.net/static/7cf6a33f90deeeac5c73407a1bdc99b6/cat.jpg
-	* 
+	* ![[Info.png.png]]
