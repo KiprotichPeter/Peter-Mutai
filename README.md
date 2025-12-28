@@ -25,7 +25,8 @@
 * Metasploit framework
 * WireShark
 * Packet Tracer
-* 
+* Python
+* Autopsy
 <!---Then Describe How i used them --->
 # Certifications
 * CompTIA A+ 
